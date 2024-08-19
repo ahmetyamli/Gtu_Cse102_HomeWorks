@@ -1,0 +1,21 @@
+19,10 
+9,6,95 
+T T T T T T T T T T 
+- -     T T       T 
+T - T         T   T 
+T - T T T T   T   T 
+T - T         T T T 
+T - T   T         T 
+T - T   T T T T T T 
+T - T             T 
+T - T T T T   T   T 
+T -   T   T B T T T 
+T - T       - T   T 
+T - T T T T - T   T 
+T - T - - - - T T T 
+T - T - T         T 
+T - T - T T T T T T 
+T - T - - - -     T 
+T - T - T T - T   T 
+T - - - - T - T T T 
+T T T T T T T T T T 
