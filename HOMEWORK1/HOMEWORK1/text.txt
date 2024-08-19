@@ -4,7 +4,7 @@ int main() {  /*12345678*/
     int number_one = 3; /*buradatam olarak 17 */
     int number_two = 4; /*1234567891234568901212*/
     int add = number_one + number_two;/*1234567891234568902342*/
-    return 0;
+    return 0; 
 }
 
 
